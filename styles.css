@@ -3,7 +3,7 @@ body{
     background-color: #000;
     color: #eee;
     font-family: Poppins;
-    font-size: 14px;
+    font-size: 33px;
 }
 a{
     text-decoration: none;
@@ -120,7 +120,7 @@ header a{
     border-radius: 50%;
     background-color: #eee4;
     border: none;
-    color: #fff;
+    color: #FFBF00;
     font-family: monospace;
     font-weight: bold;
     transition: .5s;
