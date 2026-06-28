@@ -22,15 +22,6 @@ header a{
     color: #eee;
     margin-right: 20px;
 }
-.content{
-    background: rgba(255,255,255,0.12);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    border: 1px solid rgba(255,255,255,0.25);
-    border-radius: 20px;
-    padding: 25px;
-    box-shadow: 0 8px 32px rgba(0,0,0,0.2);
-}
 /* carousel */
 .carousel{
     height: 100vh;
